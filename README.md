@@ -1,2 +1,3 @@
 # UE4Proxy
- UE4 Proxy Plugin for DMX
+Setup Documentation:
+https://bit.ly/3gSg2b2
